@@ -2,7 +2,7 @@
 
 <!-- <h1>JiuTian (九天) </h1> -->
 
-<h2 class="papername"> SemanticVLA: Semantic-Aligned Sparsification and Enhancement for Efficient Robotic Manipulation<br>AAAI 2026</h2>
+<h2 class="papername"> SemanticVLA: Semantic-Aligned Sparsification and Enhancement for Efficient Robotic Manipulation<br>AAAI 2026 <span style="color:#C00000;">Oral</span></h2>
 <div>
 <div>
     <a href="https://orcid.org/0009-0007-7675-3550" target="_blank">Wei Li</a><sup>1</sup>,
@@ -23,7 +23,7 @@
 
 <h3 align="center">
 <strong>
-🔥SemanticVLA is accepted to AAAI 2026!🔥
+🔥SemanticVLA is accepted to AAAI 2026 <span style="color:#C00000;">Oral</span>!🔥
 <br>
 ⭐ Give us a star if you like it! ⭐
 <br>
@@ -39,7 +39,7 @@
 
 
 ## :fire: Updates
-- [11/2025] :fire: SemanticVLA is accepted to **AAAI 2026**!
+- [11/2025] :fire: SemanticVLA is accepted to **AAAI 2026 Oral**!
 
 ## Introduction
 
