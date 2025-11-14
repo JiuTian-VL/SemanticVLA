@@ -18,8 +18,7 @@
 †Corresponding author
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-2508.21046-b31b1b.svg?logo=arxiv)](https://arxiv.org)
-[![project page](https://img.shields.io/badge/Project-CogVLA-9cf)](https://jiutian-vl.github.io/CogVLA-page/)
+[![arXiv](https://img.shields.io/badge/arXiv-2511.10518-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2511.10518)
 
 <h3 align="center">
 <strong>
@@ -39,6 +38,7 @@
 
 
 ## :fire: Updates
+- [11/2025] :fire: [arXiv paper](https://arxiv.org/abs/2511.10518) realeased!
 - [11/2025] :fire: SemanticVLA is accepted to **AAAI 2026 Oral**!
 
 ## Introduction
