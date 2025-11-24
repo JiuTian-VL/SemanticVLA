@@ -86,11 +86,11 @@ The attention maps of SemanticVLA highlight task-relevant regions in the input i
 If you find this work useful for your research, please kindly cite our paper.
 
 ```
-@inproceedings{li2025SemanticVLA,
+@inproceedings{li2026SemanticVLA,
   title={SemanticVLA: Semantic-Aligned Sparsification and Enhancement for Efficient Robotic Manipulation},
   author={Li, Wei and Zhang, Renshan and Shao, Rui and Fang, Zhijian and Zhou, Kaiwen and Tian, Zhuotao and Nie, Liqiang},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  year={2025}
+  year={2026}
 }
 ```
 
