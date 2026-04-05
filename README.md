@@ -55,6 +55,40 @@ The overall framework of SemanticVLA is illustrated below.
 <img src='assets/framework.png' width='100%'>
 </div>
 
+## Installation
+
+```bash
+# Create and activate conda environment
+conda create -n semanticvla python=3.10 -y
+conda activate semanticvla
+
+# Clone CogVLA repo and pip install to download dependencies
+git clone git@github.com:JiuTian-VL/SemanticVLA.git
+cd SemanticVLA
+pip install -e .
+
+# Install Flash Attention 2 for training
+pip install packaging ninja
+ninja --version; echo $?  # Verify Ninja --> should return exit code "0"
+pip install "flash-attn==2.5.5" --no-build-isolation
+```
+
+
+## Training and Evaluation
+
+See [LIBERO.md](docs/LIBERO.md) for fine-tuning/evaluating on LIBERO simulation benchmark task suites.
+
+See [ALOHA.md](docs/ALOHA.md) for fine-tuning/evaluating on real-world ALOHA robot tasks.
+
+## Inference Example
+
+After training, fill your checkpoint path in `demo.py`. Then run the following command
+
+```bash
+CUDA_VISIBLE_DEVICES=0 python demo.py
+```
+
+
 ## Experiments
 
 **Performance.** SemanticVLA achieves state-of-the-art performance with success rates of 97.7\% and 77.8\% on simulation and real-world tasks, respectively.
